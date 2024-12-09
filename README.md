@@ -8,22 +8,22 @@ Luna X is an advanced tool designed to simplify various network-related tasks an
 
 ## ✨ **Features**
 
-- **📂 **Dir Command**  
+- 📂 **Dir Command**  
   - **Usage:** Displays all connected networks in a detailed list.
 
-- **📝 **Write All**  
+- 📝 **Write All**  
   - **Usage:** Exports the list of connected networks to a file for further use.
 
-- **❌ **Exit**  
+- ❌ **Exit**  
   - **Usage:** Closes the application.
 
-- **🛠️ **Help**  
+- 🛠️ **Help**  
   - **Usage:** Provides detailed information and guidance on the available commands.
 
-- **🔄 **Update**  
+- 🔄 **Update**  
   - **Usage:** Updates the application to the latest version.
 
-- **🚀 **Try Auto Hack WiFi (Alpha)**  
+- 🚀 **Try Auto Hack WiFi (Alpha)**  
   - ⚠️ *Warning: This feature is experimental. Only use it on your own networks!*
 
 ---
